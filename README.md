@@ -2,6 +2,8 @@
 
 Check my website: *_https://carloszealand2005.github.io_*
 
+Check my codewars profile (3kyu): **https://www.codewars.com/users/Bigoh20**
+
 I live in Ecuador
 
 - 🔭 I’m currently working on Solar System App
